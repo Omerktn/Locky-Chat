@@ -14,5 +14,6 @@ Run the client with the IP and Port number arguments
 >./client 127.0.0.1 9999
 
 ***And you can start chatting.***
+
 In order to get the IP number in Linux, you can type:
 > ifconfig
